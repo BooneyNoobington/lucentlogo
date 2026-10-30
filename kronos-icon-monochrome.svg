@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kronos</title>
+  <desc id="desc">A calendar and telephone handset for on-call scheduling.</desc>
+  <g fill="none" stroke="#2A2623" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="46" y="68" width="228" height="214" rx="32"/>
+    <path d="M104 42V88 M216 42V88 M46 122H274"/>
+  </g>
+  <path fill="#2A2623" transform="translate(0 28) scale(1.1 .85)" d="M122 146 C116 138 104 139 97 146 L87 156 C80 163 80 172 83 183 C97 221 128 249 166 260 C177 263 187 262 195 255 L208 242 C214 236 213 226 206 222 L184 208 C177 203 170 205 165 211 L154 224 C136 215 123 202 114 184 L127 174 C134 169 134 161 129 155 Z"/>
+</svg>
